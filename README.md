@@ -1,6 +1,6 @@
 ## 💻 Projeto
 
-Projeto desenvolvido durante a **[Curso Web-Moderno JS 2020](https://www.cod3r.com.br/courses/web-moderno)**, realizada pela **[@Cod3r](https://www.cod3r.com.br/)**!! :rocket::rocket:
+Projeto desenvolvido durante o **[Curso Web-Moderno JS 2020](https://www.cod3r.com.br/courses/web-moderno)**, realizada pela **[@Cod3r](https://www.cod3r.com.br/)**!! :rocket::rocket:
 
 <p>Tem o Objetivo de criar um Gerador QRCode utilizando o Vue js.</p>
 
@@ -26,8 +26,8 @@ $ cd QrCode
 # Instale as dependências
 $ npm install
 
-# Execute o script "start"
-$ npm start
+# Execute o script "serve"
+$ npm serve
 
 # O projeto inciará na porta: 8080 - acesse http://localhost:8080 
 ```
